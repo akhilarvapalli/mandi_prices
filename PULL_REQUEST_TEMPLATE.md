@@ -2,7 +2,7 @@
 <!-- Provide a brief description of the changes in this PR -->
 
 ## Checklist ✅
-- [ ] My code follows the project's coding style.
+- [ ] My code1 follows the project's coding style.
 - [ ] I have added necessary tests (unit/integration).
 - [ ] I have updated the documentation if needed.
 - [ ] I have run `mvn test` (for Java projects) or equivalent commands.
